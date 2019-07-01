@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnimPanel
+comment1.params=
+comment1.target=AnimPanel()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=point
+comment3.target=java.awt.Color\ rgb(int)
+numComments=4
